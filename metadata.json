@@ -1,0 +1,6 @@
+{
+  "name": "CanariaConnect",
+  "description": "Plataforma de integración socio-profesional para migrantes y residentes en Gran Canaria. Empleos, cursos, asistencia de CV por Inteligencia Artificial y recursos administrativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
